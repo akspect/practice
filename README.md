@@ -55,7 +55,7 @@ Xcode 920
 win
 TouchDesigner 099
 
-・ TouchだとAEでのが映像を作ってる感覚だから、センサーやデバイスの連携、もしくはクラス作るのが面倒なときに作るのが良さそう？
+TouchだとAEでのが映像を作ってる感覚だから、センサーやデバイスの連携、もしくはクラス作るのが面倒なときに作るのが良さそう？
 
 # [practice007](https://www.youtube.com/watch?v=42hCoVMx79g&t=0s&list=PLGGCQlDEkVrGsWBxsLJAg-oVClGfYlHhz&index=7)
 
@@ -64,6 +64,8 @@ of_v0.9.8_osx
 Xcode 920
 
 # [practice008](https://youtu.be/UKhnG9sUjG4)
+
+TouchDesigner
 
 # [practice009](https://youtu.be/0FyGmz3EGjQ)
 
@@ -77,16 +79,30 @@ mac HightSierra ver.10.13.4
 of_v0.9.8_osx
 Xcode 920
 
-# [practice012_1](https://youtu.be/PjcnkXH781Q)
+# [practice011_01](https://youtu.be/Pm0BGEj41ZY)
+
+macOS Sierra ver.10.13.4
+of_v0.9.8_osx
+Xcode 920
+
+# [practice011_02](https://youtu.be/WND_pkea9Fo)
+
+of_v0.9.8_osx
+Xcode 920
+
+# [practice012_01](https://youtu.be/PjcnkXH781Q)
 
 macOS Sierra ver.10.13.4
 AE CC2018 Expressions
 
-# [practice012_2](https://youtu.be/V0hMRBHzwmw)
+# [practice012_02](https://youtu.be/V0hMRBHzwmw)
 
 macOS Sierra ver.10.13.4
 AE CC2018 Expressions
 
+# [practice013](https://youtu.be/2RxtavCSL3I)
+
+Processing3
 
 # OTHER
 win
